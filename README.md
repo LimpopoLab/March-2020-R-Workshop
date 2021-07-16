@@ -1,6 +1,6 @@
 # R Workshop
 ## March 2020
-Code and data for the March 2020 R Workshop
+Code and data for the March 2020 R Workshop.  Additional and updated data can be found at [www.duq.edu/limpopo](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-management/limpopo-resilience-lab).  
 
 ## Acknowledgements
 This course was developed by Rachel Pilla for the R Workshop.  It is made available here in conjunction with the report found at [www.duq.edu/limpopo](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-management/limpopo-resilience-lab).  
